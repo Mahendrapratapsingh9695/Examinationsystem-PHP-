@@ -188,20 +188,20 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-        <h4 class="modal-title" style="font-family:'typo' "><span style="color:orange">Developers</span></h4>
+        <h4 class="modal-title" style="font-family:'typo' "><span style="color:orange">Developers Details </span></h4>
       </div>
 	  
       <div class="modal-body">
         <p>
 		<div class="row">
 		<div class="col-md-4">
-		 <img src="#" width=100 height=100 alt="Mahendra Pratap Singh" class="img-rounded">
+		 <img src="image/123.jpg" width=100 height=100 alt="Mahendra Pratap Singh" class="img-rounded">
 		 </div>
 		 <div class="col-md-5">
-		<a href="http://mahendra.blogspot.in" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">mahendrapratapsingh084</a>
+		<a href="http://mahendra.blogspot.in" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Mahendra Pratap Singh</a>
 		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1"></h4>
 		<h4 style="font-family:'typo' ">mahendrapratapsingh084@gmail.com</h4>
-		<h4 style="font-family:'typo' ">LPU</h4></div></div>
+		<h4 style="font-family:'typo' ">Lovely Professional University</h4></div></div>
 		</p>
       </div>
     
